@@ -4,11 +4,11 @@ Metasploit payload generating tool for android Termux Terminal.
 # Installation... 
 ---------------------
 
-$ pkg update -y
-$ pkg install git -y
-$ git clone https://github.com/ARSecurityTeam/Android-Payload-Generat
-$ cd Android-Payload-Generat
-$ chmod +x *
+$ pkg update -y <br>
+$ pkg install git -y <br>
+$ git clone https://github.com/ARSecurityTeam/Android-Payload-Generat <br>
+$ cd Android-Payload-Generat <br>
+$ chmod +x * <br>
 
 --------------------- 
 
