@@ -9,7 +9,7 @@ $ pkg install git -y <br>
 $ git clone https://github.com/ARSecurityTeam/Android-Payload-Generat <br>
 $ cd Android-Payload-Generat <br>
 $ chmod +x * <br>
-
+$ ./G-android-payload.sh
 --------------------- 
 
 # Payload => 
